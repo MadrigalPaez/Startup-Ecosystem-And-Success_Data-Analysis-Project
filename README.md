@@ -1,13 +1,13 @@
 # Startup Ecosystem: An analysis of IPO and acquisition drivers
 
 ## Objective:
-In the high-stakes world of startups, a successful exit is the ultimate goal. But what defines that success? What drives it? This project dives into a **global dataset of 5,000 startups** to uncover the fundamental differences between two major exit strategies: a public offering (IPO) and an acquisition. As a simulated data analyst project, the goal is to move beyond speculation and use data to **identify the key financial, operational, and categorical characteristics** that predict a startup's most likely path to success.
+In the startup ecosystem, a successful exit is the ultimate goal. But what defines that success? What drives it? This project dives into a **global dataset of 5,000 startups** to uncover the fundamental differences between two major exit strategies: a public offering (IPO) and an acquisition. The goal is to **identify the key financial, operational, and categorical characteristics** that predict a startup's most likely path to success.
 
 ## Context:
 For investors and founders, understanding the trajectory of a startup is critical for making strategic decisions. Stakeholders in the venture capital and startup ecosystem are particularly interested in understanding:
 
 * The different **archetypes of startups** that exist in the global landscape.
-* The **key performance indicators (KPIs)** that signal a company is on track for a high-value exit.
+* The **KPIs** that signal a company is on track for a high-value exit.
 * How factors like **industry and geography** influence a startup's potential and ultimate exit strategy.
 
 ## Key Business Questions:
