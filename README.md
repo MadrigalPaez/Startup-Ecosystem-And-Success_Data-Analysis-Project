@@ -36,6 +36,6 @@ For investors and founders, understanding the trajectory of a startup is critica
 
 ## Analysis & Visualizations:
 
-The complete analysis and key findings are presented in an interactive Tableau Storyboard. This dashboard provides a visual narrative of the project, from initial exploration to the final predictive insights.
+The complete analysis and key findings are presented in an interactive Tableau Storyboard. This dashboard provides a visual narrative of the project, from initial exploration to the final insights.
 
 ## View the [**Interactive Tableau Dashboard Here**](https://public.tableau.com/app/profile/.lvaro.madrigal/viz/StartupEcosystemAnanalysisofIPOandacquisitiondrivers/INTRO?publish=yes)
